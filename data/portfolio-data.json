@@ -1,0 +1,573 @@
+{
+  "meta": {
+    "title": "Dr. Alex Dummett | Healthcare AI Consultant",
+    "description": "Portfolio website showcasing healthcare AI consulting, clinical informatics, and patient safety expertise"
+  },
+  "personal": {
+    "name": "Dr. Alex Dummett",
+    "title": "Healthcare AI Consultant",
+    "location": "Tampa, FL",
+    "avatar": "/Alex-Dummett-Headshot.jpeg",
+    "email": "me@alexdummett.com",
+    "website": "https://healthcareaiconsulting.com/lander",
+    "phone": "+1 (555) 123-4567",
+    "workingHours": "Monday - Friday, 9am - 5pm EST",
+    "availableForWork": true,
+    "badges": ["MD", "FACP", "CPPS", "CPHFH"],
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alexdummett/",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "#",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Calendar",
+        "url": "https://calendly.com/b-alex-dummett",
+        "icon": "Calendar"
+      }
+    ]
+  },
+  "about": {
+    "bio": "Dr. Alex Dummett is an award-winning and nationally recognized physician-informaticist whose career bridges clinical practice, medical education, patient safety, and the integration of artificial intelligence into healthcare. He is board-certified in Internal Medicine and in Clinical Informatics by the American Board of Preventive Medicine. With over a decade of experience, he has built and optimized AI-powered clinical decision support tools that improve outcomes and support high-stakes decision-making.",
+    "focus": [
+      "AI in Clinical Decision Support",
+      "EHR Optimization & Standardization",
+      "Medical Education & Simulation",
+      "Healthcare Quality, Safety & Early Warning Systems",
+      "Strategic Consulting for Healthcare Organizations"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇺🇸"
+      }
+    ],
+    "interests": ["Healthcare AI", "Clinical Informatics", "Patient Safety", "Medical Education", "Quality Improvement"]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Publications",
+      "href": "#publications"
+    },
+    {
+      "label": "Presentations",
+      "href": "#presentations"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Consultant – AI & Healthcare Innovation",
+      "company": "Healthcare AI Consulting, LLC",
+      "period": "Mar 2025 - Present",
+      "description": "After over a decade of leading quality improvement initiatives, deploying predictive analytics, and transforming clinical workflows, I've launched the next chapter of my career as a Healthcare AI and Clinical Informatics Consultant. I partner with startups, health systems, hospitals, medical groups, residency programs, and medical schools to drive responsible AI integration, improve diagnostic accuracy, and prepare the clinical workforce for an AI-enabled future.",
+      "achievements": [
+        "Advising on AI model validation, regulatory compliance, and clinical adoption",
+        "Enhancing physician decision-making, reducing diagnostic errors, and improving patient outcomes",
+        "Integrating AI-driven workflows into Epic and other EHRs to improve efficiency",
+        "Developing AI-powered OSCEs, diagnostic reasoning tools, and simulation-based training"
+      ],
+      "technologies": [
+        "AI in Clinical Decision Support",
+        "EHR Optimization",
+        "Medical Education & Simulation",
+        "Healthcare Quality & Safety"
+      ]
+    },
+    {
+      "title": "Physician Advisor, FORMD",
+      "company": "Thinkhat",
+      "period": "Mar 2025 - Present",
+      "description": "Supporting innovation at the intersection of AI, healthcare, and medical education. My work involves designing, evaluating, and scaling high-impact clinical tools that enhance safety, clinical reasoning, and educational outcomes.",
+      "achievements": [
+        "Advising on clinical use cases and ensuring product safety in AI-driven tools",
+        "Integrating quality improvement and informatics frameworks into solution design",
+        "Supporting evidence-based decision-making through simulation and training platforms"
+      ],
+      "technologies": ["AI-Driven Tools", "Clinical Safety", "Simulation Platforms", "Medical Education"],
+      "companyUrl": "https://www.thinkhat.ai/"
+    },
+    {
+      "title": "Faculty – Institute for Healthcare Improvement (IHI)",
+      "company": "Institute for Healthcare Improvement",
+      "period": "2024 - Present",
+      "description": "Serve as faculty at the Institute for Healthcare Improvement, teaching AI use cases for Quality Improvement. Panelist expert at the 2024 IHI & NYU Hackathon. For two years, have served on the committee to select the AI for QI track for the IHI Forum 2024 and upcoming IHI Forum 2025.",
+      "achievements": [
+        "Taught AI use cases for Quality Improvement to healthcare professionals",
+        "Panelist expert at the 2024 IHI & NYU Hackathon",
+        "Served on the committee to select AI for QI track for IHI Forum 2024 and 2025"
+      ],
+      "technologies": [
+        "AI in Quality Improvement",
+        "Healthcare Education",
+        "Hackathon Facilitation",
+        "Conference Planning"
+      ]
+    },
+    {
+      "title": "Associate Program Director, Internal Medicine Residency & Patient Safety Officer",
+      "company": "Mid-Atlantic Permanente Medical Group",
+      "period": "Jun 2019 - Mar 17, 2025",
+      "description": "Led the creation and execution of an Internal Medicine Residency program, mentored faculty and residents, and implemented quality improvement and patient safety initiatives, including serving as the National Early Warning System Subject Matter Expert.",
+      "achievements": [
+        "Created and executed Internal Medicine Residency program",
+        "Mentored faculty and residents in clinical practice",
+        "Implemented quality improvement and patient safety initiatives",
+        "Served as National Early Warning System Subject Matter Expert"
+      ],
+      "technologies": ["Medical Education", "Patient Safety", "Quality Improvement", "Early Warning Systems"]
+    },
+    {
+      "title": "Interim Scientific Chair – Scientific Session 2025: Evidence-Based AI in Medicine",
+      "company": "American College of Artificial Intelligence and Medicine",
+      "period": "Mar 2025 - May 2025",
+      "description": "Served as Interim Scientific Chair for the conference hosted by the American College of Artificial Intelligence and Medicine 2025. This event gathered clinicians, researchers, educators, technologists, and policy leaders to advance responsible AI in healthcare.",
+      "achievements": [
+        "Curated a program rooted in evidence, clinical relevance, and meaningful impact",
+        "Fostered honest dialogue and community-building in healthcare AI",
+        "Brought together experts from across the healthcare AI ecosystem"
+      ],
+      "technologies": ["Healthcare AI", "Medical Education", "Conference Planning", "Scientific Leadership"]
+    },
+    {
+      "title": "Advance Alert Monitor Regional Clinical Lead",
+      "company": "The Permanente Medical Group, Inc.",
+      "period": "Jan 2013 - Jun 2019",
+      "description": "Led the pilot, development, and expansion of the award-winning Advance Alert Monitor, reducing in-hospital deterioration across multiple hospitals and managing extensive EPIC Clinical Decision Support tools.",
+      "achievements": [
+        "Led development of award-winning Advance Alert Monitor system",
+        "Reduced in-hospital deterioration across multiple hospitals",
+        "Managed extensive EPIC Clinical Decision Support tools",
+        "Implemented AI-powered early warning systems"
+      ],
+      "technologies": ["Clinical Decision Support", "EPIC EHR", "Early Warning Systems", "Healthcare Analytics"]
+    },
+    {
+      "title": "Advisor & Consultant – GME, UME, CME, QI, PS, Simulation, Clinical Informatics (AI focus)",
+      "company": "PYA",
+      "period": "Mar 2025 - Present",
+      "description": "Serve as advisor and consultant for PYA, providing expertise in Graduate Medical Education (GME), Undergraduate Medical Education (UME), Continuing Medical Education (CME), Quality Improvement (QI), Patient Safety (PS), simulation, and clinical informatics with a focus on Artificial Intelligence integration in healthcare.",
+      "achievements": [
+        "Advising on GME, UME, CME program development and optimization",
+        "Guiding quality improvement and patient safety initiatives",
+        "Implementing simulation-based education and training",
+        "Consulting on clinical informatics and AI integration in healthcare settings"
+      ],
+      "technologies": [
+        "Medical Education",
+        "Quality Improvement",
+        "Patient Safety",
+        "Simulation",
+        "Clinical Informatics",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "title": "Telemedicine Primary Care Doctor",
+      "company": "General Medicine",
+      "period": "Mar 2025 - Present",
+      "description": "Providing comprehensive remote patient care, including diagnosis, treatment, and management of chronic conditions through telehealth platforms. Utilizing AI-powered decision support tools and remote monitoring technologies to enhance patient engagement and care outcomes. Collaborating with interdisciplinary teams to optimize virtual care workflows, ensure evidence-based practices, and improve access to primary care services.",
+      "achievements": [
+        "Delivered virtual primary care and chronic disease management to diverse patient populations",
+        "Leveraged AI-powered decision support and remote monitoring for improved outcomes",
+        "Optimized telemedicine workflows and access to care through interdisciplinary collaboration"
+      ],
+      "technologies": [
+        "Telemedicine",
+        "AI Decision Support",
+        "Remote Monitoring",
+        "Chronic Disease Management"
+      ]
+    },
+    {
+      "title": "Founder Advisor and Clinical Informatics Consultant",
+      "company": "Health Fidelity, Inc.",
+      "period": "2009 - 2014",
+      "description": "Conducted assessments of healthcare technology systems and processes, identifying areas for improvement and recommending solutions. Provided technical and clinical expertise in healthcare data analysis, clinical informatics, and process improvement. Collaborated with Health Fidelity during its startup phase, contributing to its growth and technological advancements.",
+      "achievements": [
+        "Advised on clinical informatics and analytics for healthcare technology startup",
+        "Contributed to product development and process improvement initiatives",
+        "Supported company growth through technical and clinical expertise"
+      ],
+      "technologies": [
+        "Healthcare Analytics",
+        "Clinical Informatics",
+        "Process Improvement",
+        "Startup Advisory"
+      ]
+    },
+    {
+      "title": "Pool Hospitalist",
+      "company": "Peninsula Hospitalist Associates, Inc.",
+      "period": "Aug 2012 - May 2013",
+      "description": "Rounded, admitted, and discharged patients with a daily census of 18-25 patients at a community hospital. Provided comprehensive inpatient care and collaborated with multidisciplinary teams to ensure high-quality outcomes.",
+      "achievements": [
+        "Managed high-volume inpatient census with consistent quality care",
+        "Collaborated with multidisciplinary teams for optimal patient outcomes"
+      ],
+      "technologies": [
+        "Inpatient Medicine",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "title": "Pool Physician",
+      "company": "Kaiser Permanente Santa Clara",
+      "period": "2011 - 2012",
+      "description": "Served as Pool Physician providing comprehensive patient care across various departments and clinical settings. Maintained clinical responsibilities while serving in leadership roles within the residency program.",
+      "achievements": [
+        "Provided comprehensive patient care across multiple clinical departments",
+        "Maintained high-quality clinical outcomes in diverse healthcare settings",
+        "Collaborated with multidisciplinary teams for optimal patient care"
+      ],
+      "technologies": [
+        "Internal Medicine",
+        "Patient Care",
+        "Clinical Medicine"
+      ],
+      "companyUrl": "https://www.kp.org/"
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Board Certified in Internal Medicine",
+        "issuer": "American Board of Internal Medicine",
+        "date": "Current",
+        "logo": "/ABIM-LOGO.png"
+      },
+      {
+        "name": "Certified in Clinical Informatics",
+        "issuer": "American Board of Preventive Medicine",
+        "date": "Current",
+        "logo": "/American-Board-of-Preventive-Medicine-LOGO.svg"
+      },
+      {
+        "name": "Fellow of the American College of Physicians (FACP)",
+        "issuer": "American College of Physicians",
+        "date": "Current",
+        "logo": "/acp-fellow-lockup-web.png"
+      },
+      {
+        "name": "Advanced AI Certification",
+        "issuer": "American Board of Artificial Intelligence in Medicine",
+        "date": "Current",
+        "logo": "/abaim-logo.jpeg"
+      },
+      {
+        "name": "Certified Professional in Human Factors in Health Care (CPHFH)",
+        "issuer": "Institute of Healthcare Improvement",
+        "date": "Current",
+        "logo": "/IHI_Symbol.jpg"
+      },
+      {
+        "name": "Certified Professional in Patient Safety (CPPS)™",
+        "issuer": "Institute of Healthcare Improvement",
+        "date": "Current",
+        "logo": "/IHI_Symbol.jpg",
+        "credentialId": "PS0-09-5640"
+      },
+      {
+        "name": "Diversity, Equity, and Inclusion Champion Training",
+        "issuer": "UCSF & Enact Leadership",
+        "date": "4/2019",
+        "logo": "/placeholder-logo.png"
+      },
+      {
+        "name": "TeamSTEPPS Master Trainer",
+        "issuer": "Kaiser Permanente",
+        "date": "4/2015",
+        "logo": "/KP-logo-1.png"
+      },
+      {
+        "name": "Institute of Healthcare Improvement (IHI) Patient Safety Executive Development",
+        "issuer": "Institute of Healthcare Improvement",
+        "date": "9/2013",
+        "logo": "/IHI_Symbol.jpg"
+      },
+      {
+        "name": "Certified Healthcare Technology Specialist Practitioner Consultant (CHTS-PC)",
+        "issuer": "AHIMA",
+        "date": "1/2012",
+        "logo": "/placeholder-logo.png"
+      }
+    ],
+    "awards": [
+      {
+        "name": "Sol Katz Teaching Award",
+        "issuer": "American College of Physicians, District of Columbia Chapter",
+        "date": "11/16/2024",
+        "logo": "/acp-fellow-lockup-web.png",
+        "url": "https://www.dc-acp.org/chapter-awards.html"
+      },
+      {
+        "name": "Fellow of the American College of Physicians (FACP)",
+        "issuer": "American College of Physicians",
+        "date": "2023",
+        "logo": "/acp-fellow-lockup-web.png"
+      },
+      {
+        "name": "The Joint Commission & National Quality Forum 20th Annual Eisenberg Award",
+        "issuer": "The Joint Commission & National Quality Forum",
+        "date": "April 2022",
+        "logo": "/Eisenberg-Digital-Badges-National-Red.png"
+      },
+      {
+        "name": "National ACP Poster Presentation Award",
+        "issuer": "American College of Physicians",
+        "date": "April 2025",
+        "logo": "/acp-district-of-columbia-chapter-logo-web.gif"
+      },
+      {
+        "name": "DC ACP 1st Place – Simplification and Gamification of Inpatient Discharge Instructions",
+        "issuer": "American College of Physicians, District of Columbia Chapter",
+        "date": "2024",
+        "logo": "/acp-district-of-columbia-chapter-logo-web.gif"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Patient Safety Fellowship",
+        "institution": "Kaiser Permanente",
+        "year": "2013 - 2014",
+        "logo": "/KP-logo-1.png"
+      },
+      {
+        "degree": "Chief Resident, Internal Medicine Residency",
+        "institution": "Kaiser Permanente Santa Clara",
+        "year": "2008 - 2011",
+        "logo": "/KP-logo-1.png"
+      },
+      {
+        "degree": "Doctor of Medicine",
+        "institution": "George Washington University School of Medicine",
+        "year": "2004 - 2008",
+        "logo": "/gwu-logo.png"
+      },
+      {
+        "degree": "Bachelor's Degree",
+        "institution": "University of Maryland, Baltimore County (UMBC)",
+        "year": "2000 - 2004",
+        "logo": "/umbc logo.png"
+      }
+    ],
+    "skills": [
+      "Clinical Informatics",
+      "Healthcare AI",
+      "Patient Safety",
+      "Medical Education",
+      "Quality Improvement",
+      "Early Warning Systems",
+      "EHR Optimization",
+      "Clinical Decision Support",
+      "Epic Physician Builder"
+    ]
+  },
+  "publications": [
+    {
+      "title": "The Kaiser Permanente Northern California Advance Alert Monitor Program: An Automated Early Warning System for Adults at Risk for In-Hospital Clinical Deterioration",
+      "authors": "Martinez, Vanessa A; Betts, Robin K; Scruth, Elizabeth A; Buckley, Jacqueline D; Cadiz, Vilma R; Bertrand, Linda D; Paulson, Shirley S; Dummett, Brian Alex; Abhyankar, Stella S; Reyes, Vivian M; Hatton, Joeffrey R; Sulit, Reynaldo; Liu, Vincent X",
+      "journal": "Jt Comm J Qual Patient Saf",
+      "year": "2022",
+      "volume": "48",
+      "issue": "8",
+      "pages": "370-375",
+      "type": "Journal Article"
+    },
+    {
+      "title": "What Do We Do After the Pilot Is Done? Implementation of a Hospital Early Warning System at Scale",
+      "authors": "Paulson SS, Dummett BA, Green J, Scruth E, Reyes V, Escobar GJ",
+      "journal": "Jt Comm J Qual Patient Saf",
+      "year": "2020",
+      "volume": "46",
+      "issue": "4",
+      "pages": "207-216",
+      "type": "Journal Article"
+    },
+    {
+      "title": "Incorporating an Early Detection System Into Routine Clinical Practice in Two Community Hospitals",
+      "authors": "Dummett BA, Adams C, Scruth E, Liu V, Guo M, Escobar GJ",
+      "journal": "J Hosp Med",
+      "year": "2016",
+      "volume": "11",
+      "issue": "Suppl 1",
+      "pages": "S25-S31",
+      "type": "Journal Article"
+    }
+  ],
+  "presentations": [
+    {
+      "title": "Teaching Prompt Engineering and Artificial Intelligence to Graduate Medical Education Providers",
+      "location": "Pennsylvania",
+      "date": "3/19/2025",
+      "organization": "St. Luke's University Health Network",
+      "description": "Spring Off Site"
+    },
+    {
+      "title": "Teaching Artificial Intelligence to Graduate Medical Education Providers",
+      "location": "Santa Clara, CA",
+      "date": "12/12/2024",
+      "organization": "KP"
+    },
+    {
+      "title": "Resident Grand Rounds: Augmented Intelligence - Generative AI in the Clinical Setting",
+      "location": "KP Mid-Atlantic States",
+      "date": "12/11/2024",
+      "organization": "KP Mid-Atlantic States",
+      "collaborator": "with Nadia Smati"
+    },
+    {
+      "title": "Simplification and gamification of inpatient discharge instructions: Generative AI at bedside",
+      "location": "Orlando, FL",
+      "date": "11/19/2024",
+      "organization": "AIMED 2024",
+      "collaborator": "with Nadia Smati"
+    },
+    {
+      "title": "GenAI Quality Improvement Conference and Promptathon",
+      "location": "New York City, NY",
+      "date": "11/8/2024",
+      "time": "10:20-11:20AM PT / 1:20-2:20PM ET",
+      "organization": "Stanford and NYU Langhorne",
+      "description": "Panel Discussion on the Frontiers of Generative AI and Healthcare Improvements"
+    },
+    {
+      "title": "AI for Medical Education Workshop, Fall Off site Artificial Intelligence in Medical Education: A Transformative Frontier",
+      "location": "Berkeley, CA",
+      "date": "10/31/2024",
+      "organization": "Northern California Kaiser Permanente",
+      "collaborator": "with Nadia Smati"
+    },
+    {
+      "title": "Regional Cardiology Education Grand Rounds Using AI tools to optimize TTE steward",
+      "date": "2/20/2024",
+      "collaborator": "with Nadia Smati"
+    },
+    {
+      "title": "Faculty Development Optimizing Teaching on Busy Wards",
+      "location": "Bethesda, MD",
+      "date": "5/1,8/2024"
+    },
+    {
+      "title": "AI-Clinical Decision Support Tool for Transthoracic ECHO Stewardship",
+      "date": "12/2023",
+      "collaborator": "with Nadia Smati"
+    },
+    {
+      "title": "Clinical Coaching Cards: Tools for Teaching in the Moment",
+      "date": "7/15/2021"
+    },
+    {
+      "title": "IPASS Curriculum Introduction and Teaching at the Bedside Rounding Expectations",
+      "date": "7/8/2021"
+    },
+    {
+      "title": "MiPLAN: A Learner-Centered Model for Bedside Teaching in Today's Academic Medical Centers and Direct Observation of Clinical Skills",
+      "date": "4/23/2021"
+    },
+    {
+      "title": "Just Culture in the Residency Learning Environment",
+      "date": "4/21/2021"
+    },
+    {
+      "title": "Clinical Coaching Module",
+      "date": "3/26/2021"
+    },
+    {
+      "title": "How to Do Bedside Patient and Family-Centered Rounding",
+      "date": "3/19/2021"
+    },
+    {
+      "title": "Learning Climate for Resident and Ward Rotation Feedback",
+      "date": "2/26/2021"
+    },
+    {
+      "title": "Advance Alert Monitor: A Case Study in Implementation of an Early Warning System (EWS) using Statistical Modeling, Leveraging Virtual Nurse Team and Rapid Response Team",
+      "date": "11/7/2019",
+      "organization": "Cynosure Health Thought Leader Series Patient Deterioration: Anticipated, Recognize & Respond",
+      "type": "Virtual Webinar",
+      "url": "https://cynosurehealth.org/news_events/cynosure-health-early-detection-webinar-available-for-viewing/",
+      "videoUrl": "https://www.youtube.com/watch?v=cCCLdqVR0gM"
+    },
+    {
+      "title": "Advance Alert Monitor: A Case Study in Implementation of an EWS using Statistical Modeling, Leveraging Virtual Nurse Team and Rapid Response Team",
+      "date": "9/4/2019",
+      "organization": "Anesthesia Patient Safety Foundation",
+      "description": "Perioperative Deterioration: Recognition, Mitigation, and the End of Failure to Rescue",
+      "type": "Webinar"
+    },
+    {
+      "title": "Predictive Analytics in Healthcare (HPA): Considerations and Challenges",
+      "date": "11/2014",
+      "collaborators": "Saria S, Escobar GJ, Tang P, Ohno-Machado L, Dummett A",
+      "url": "https://www.rti.org/publication/stage-3-meaningful-use-and-patient-generated-health-data-pghd-0/fulltext.pdf"
+    },
+    {
+      "title": "Advance Alert Monitor, Grand Rounds CME",
+      "location": "San Francisco, CA",
+      "date": "6/2018"
+    },
+    {
+      "title": "Preventing Unrecognized Deterioration and Honoring Patients' Wishes by Embedding Early-Warning Systems in Hospital Workflows",
+      "location": "San Francisco, CA",
+      "date": "6/2018",
+      "organization": "KP National Quality Conference"
+    }
+  ],
+  "technicalSkills": {
+    "design": [
+      "Clinical Decision Support Design",
+      "EHR Workflow Design",
+      "Patient Safety Systems",
+      "Medical Education Platforms",
+      "Simulation Design"
+    ],
+    "development": [
+      "Epic EHR",
+      "Clinical Informatics",
+      "Healthcare Analytics",
+      "AI Model Validation",
+      "Quality Metrics"
+    ],
+    "uxMethods": [
+      "Clinical Workflow Analysis",
+      "Patient Safety Assessment",
+      "Healthcare Quality Measurement",
+      "Medical Education Evaluation",
+      "AI Implementation Strategy"
+    ],
+    "softSkills": [
+      "Clinical Leadership",
+      "Medical Education",
+      "Healthcare Consulting",
+      "Patient Safety Culture",
+      "Change Management"
+    ]
+  }
+}
